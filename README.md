@@ -1,6 +1,8 @@
 # Ai-LinearRegressionModel
 Ai-LinearRegressionModel : simple NN Regression model (1 to 3 Layers)
 
+https://github.com/0xZee/Ai-LinearRegressionModel/blob/main/Ai_LinearRegressionModel.ipynb
+
 hyperparameter tuning Most machine learning problems require a lot of hyperparameter tuning. Unfortunately, we can't provide concrete tuning rules for every model. Lowering the learning rate can help one model converge efficiently but make another model converge much too slowly. You must experiment to find the best set of hyperparameters for your dataset. That said, here are a few rules of thumb:
 
 Training loss should steadily decrease, steeply at first, and then more slowly until the slope of the curve reaches or approaches zero.
